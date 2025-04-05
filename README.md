@@ -9,14 +9,14 @@ TECHNOLOGOIES USED
 3. FORMSPREE: I used formspree to connect the contact form to my email so that I can be receiving emails from it.
 4. VERCEL: Vercel was used for production and deployment.
 6. AI TOOLS: I used the following AI tools during development:
-  -Loveable AI:
-  I  used this to make a very rough template for the HTML ,CSS and Javascript files. I had a very busy schedule and couldn't find enough time to code everything from scratch, but I had the designs and color scheme already chosen.
-  -Deepseek AI:
-  This tool helped me to overcome problems I faced during deployment using the terminal.
-  -Chatgpt:
-  It helped me to learn how formspree works and how I can manually connect and configure it.
-  Blackbox AI:
-  It helped me understand the errors I was facing during development.
+    -Loveable AI:
+    I  used this to make a very rough template for the HTML ,CSS and Javascript files. I had a very busy schedule and couldn't find enough time to code everything from scratch, but I had the designs and color scheme already chosen.
+    -Deepseek AI:
+    This tool helped me to overcome problems I faced during deployment using the terminal.
+    -Chatgpt:
+    It helped me to learn how formspree works and how I can manually connect and configure it.
+    Blackbox AI:
+    It helped me understand the errors I was facing during development.
 
 FEATURES IMPLEMENTED
 First, before we delve into the features.I want to say that this is a multiple page website, and I know it would have been easier to create a single page website, 
